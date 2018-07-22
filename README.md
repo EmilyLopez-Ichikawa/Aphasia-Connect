@@ -1,4 +1,5 @@
-![Login screen for desktop](login.jpg?raw=true)
+![Login screen for desktop](img/login.jpg?raw=true)
+![Example question: exercise](img/qexercise.jpg?raw=true)
 
 # Inspiration
 We chose this topic because the mother of a team member works with those with speech impairments, and we also looked at a few examples of what was currently in the app store to serve those with Aphasia. We found the apps were very cluttered and people with Aphasia would not be able to navigate the apps.
